@@ -53,7 +53,7 @@ ollama run llama2
 ### 2. Em outro terminal, execute o script
 
 ```bash
-python embeddings_ollama.py
+python vb_faiss.py
 ```
 
 ### 3. Interaja com o sistema
