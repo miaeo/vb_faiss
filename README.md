@@ -19,7 +19,7 @@ Antes de executar o projeto, certifique-se de ter instalado:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/ollama-embeddings-projeto.git
+git clone https://github.com/miaeo/ollama-embeddings-projeto.git
 cd ollama-embeddings-projeto
 ```
 
